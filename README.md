@@ -16,7 +16,7 @@ My goal is to build a career in **semiconductor design and chip innovation**.
 ---
 
 ## 🚀 Featured Projects
-- [**RISC-V Reference SoC Tapeout Program**](https://github.com/Pheno-x/RISC-V-Reference-SoC-Tapeout-Program---VSD)  
+- [**Single-Clock and Dual-Clock FIFO Design and Verification**](https://github.com/Pratham-Bit-Flip/Single-Clock-and-Dual-Clock-FIFO-Design-and-Verification)  
   Learning and implementing RTL → GDSII flow as part of an VSD tapeout program.  
 
 - [**AHB to APB Bridge Design**](https://github.com/Pheno-x/AHB-TO-APB-Bridge-Design)  
