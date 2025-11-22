@@ -29,7 +29,7 @@ My goal is to build a career in **semiconductor design and chip innovation**.
 
 ## 📫 Connect With Me
 <a href="https://www.reddit.com/user/Sea_Speaker_4667/">
-  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" />
+  <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
 </a>
 
 <a href="https://x.com/pratham_1526">
