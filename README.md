@@ -33,11 +33,11 @@ My goal is to build a career in **semiconductor design and chip innovation**.
 </a>
 
 <a href="https://x.com/pratham_1526">
-  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/prathameshdesai1526/">
-  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
 </a>
 
 
