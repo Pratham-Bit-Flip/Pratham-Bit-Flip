@@ -28,8 +28,18 @@ My goal is to build a career in **semiconductor design and chip innovation**.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [www.linkedin.com/in/prathameshdesai1526]  
-- Email: [spratham1526@gmail.com]  
+<a href="https://www.reddit.com/user/Sea_Speaker_4667/">
+  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reddit/reddit-original.svg" />
+</a>
+
+<a href="https://x.com/pratham_1526">
+  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/prathameshdesai1526/">
+  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
 
 ---
 
