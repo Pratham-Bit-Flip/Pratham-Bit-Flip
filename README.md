@@ -16,8 +16,6 @@ My goal is to build a career in **semiconductor design and chip innovation**.
 ---
 
 ## 🚀 Featured Projects
-- [**Single-Clock and Dual-Clock FIFO Design and Verification**](https://github.com/Pratham-Bit-Flip/Single-Clock-and-Dual-Clock-FIFO-Design-and-Verification)  
-  Learning and implementing RTL → GDSII flow as part of an VSD tapeout program.  
 
 - [**AHB to APB Bridge Design**](https://github.com/Pheno-x/AHB-TO-APB-Bridge-Design)  
   Verilog design of a standard bus bridge with verification.  
